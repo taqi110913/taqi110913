@@ -11,6 +11,7 @@ I never had any official courses for coding; instead, I learn by *doing*.
 ## 🚀 My projects
 
 - [Jejak Iman](https://github.com/taqi110913/jejakiman): My official blog
+- [Islam Quest](https://github.com/taqi110913/islam-quest): Learn Islam like Duolingo
 
 ## 🎉 Achievements
 
