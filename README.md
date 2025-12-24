@@ -19,3 +19,6 @@ I never had any official courses for coding; instead, I learn by *doing*.
 | --- | --- | --- |
 | ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) | Pull Shark | I opened pull requests that have been merged! |
 | ![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) | Quickdraw | Gitty up! |
+
+## daily.dev DevCard
+<a href="https://app.daily.dev/taqi1109"><img src="https://api.daily.dev/devcards/v2/FS5fXcRAqmnLwdwnyWVMF.png?r=lk6&type=wide" width="652" alt="Taqiyuddin's Dev Card"/></a>
