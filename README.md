@@ -19,5 +19,3 @@ I never had any official courses for coding; instead, I learn by *doing*.
 | --- | --- | --- |
 | ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) | Pull Shark | I opened pull requests that have been merged! |
 | ![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) | Quickdraw | Gitty up! |
-| ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) | YOLO | You want it? You merge it. |
-
